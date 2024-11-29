@@ -1,0 +1,14 @@
+"""
+ciclo for
+
+se exactamente cuando voy a parar el ciclo
+
+es ideal para recorrer listas, tuplas, diccionarios, etc
+"""
+
+1lista =  ["Dinosaurio" , 23, True, 45.5, "amazon"]
+
+ # for [variable_de_iteracion]
+ 
+for elemento in lista:
+    print(f"elemento {x)")
